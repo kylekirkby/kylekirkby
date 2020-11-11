@@ -1,4 +1,4 @@
-### Hellooo! 
+### Greetings earthling 👽
 
 - 🔭 I’m currently working on React/NextJS/AWS Amplify/Jekyll
 - 🌱 I’m currently learning NextJS/React JS
