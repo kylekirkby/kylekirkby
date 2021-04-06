@@ -7,10 +7,5 @@
 - 📫 How to reach me: Twitter: (@the_actual_kyle) / Email: send@kyle.news
 - ⚡ Fun fact: I was born dead, but now I'm here! 
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 [![Kyle's github stats](https://github-readme-stats.vercel.app/api?username=kylekirkby&show_icons=true&theme=dark)](https://github.com/kylekirkby)
