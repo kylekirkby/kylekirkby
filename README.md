@@ -1,9 +1,17 @@
 # Greetings fellow earthling 👽 🛸
 ## Current Stack 📚
 
-- Frontend: React / Next.js / Redux/RTK / MUI ❤️
-- Backend: AWS Amplify / AWS || Azure / Functions ~ Serverless! 💪
-- Languages: TypeScript / Python / JavaScript
+### Frontend 
+
+**React** / _Next.js_ / **Redux/RTK** / _MUI_ ❤️
+
+### Backend
+
+_AWS Amplify_ / **AWS** || **Azure** / **Functions** ~ _Serverless_! 💪
+
+### Languages
+
+**TypeScript** / _Python_ / ~JavaScript~
 
 ## Ask me about 
 
