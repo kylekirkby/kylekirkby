@@ -1,6 +1,6 @@
 ### Greetings earthling 👽
 
-- 🔭 I’m currently working on React/NextJS/AWS Amplify/Jekyll/i18n
+- 🔭 I’m currently working on React/NextJS/AWS Amplify/Jekyll/i18n/TypeScript
 - 🌱 I’m currently learning NextJS/React JS
 - 👯 I’m looking to collaborate on anything cool and Javascript!
 - 💬 Ask me about Cards, Magic & Illusions / Startups / Web Dev / SaaS
