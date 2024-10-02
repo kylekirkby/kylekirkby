@@ -22,7 +22,7 @@ _AWS Amplify_ / **AWS** || **Azure** / **Functions** ~ _Serverless_! 💪
 ## How to reach me 📫
 
 - Twitter: (@the_actual_kyle)
-- Email: kyle@socialimage.app
+- Email: [kyle@adventur.ai](mailto:kyle@adventur.ai)
 
 <!-- <a href="https://www.socialimage.app/">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=kylekirkby&show_icons=true&theme=react" alt="Kyle's github stats" />
