@@ -1,23 +1,17 @@
-# Greetings fellow earthling 👽 🛸
+# 👋🏻
 ## Current Stack 📚
 
 ### Frontend 
 
-**React** / _Next.js_ / **Redux/RTK** / _MUI_ ❤️
+Vite / Vitest / **React** / _Next.js_ / **Redux/RTK** / _MUI_ ❤️
 
 ### Backend
 
-_AWS Amplify_ / **AWS** || **Azure** / **Functions** ~ _Serverless_! 💪
+**AWS** || **Azure** / **Functions** ~ _Serverless_ ! 💪
 
 ### Languages
 
-**TypeScript** / _Python_ / ~JavaScript~
-
-## Ask me about 
-
-- Magic
-- Serverless SaaS
-- AWS Amplify
+**TypeScript** / _Python_ 
 
 ## How to reach me 📫
 
